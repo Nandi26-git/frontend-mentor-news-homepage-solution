@@ -1,0 +1,2 @@
+1. openbtn click eventre és resize eventre lekérem a viewport aktuális szélességét, majd kivonom belőle az openBtn getboundclientrect() methoddal kapott objeckjének width property-jét. Ezzel megkapom, hogy aktuálisan hol helyezkedik el a jobb oldaltól számítva az openbtn.
+2. Mindig ehhez igazodva helyezem el a jobb oldaltól számítva a closebtn-t, de hozzáadok plusz 5 pixelt, mert az openbtn 40px széles, a closebtn viszont csak 30px;
